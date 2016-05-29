@@ -1,0 +1,24 @@
+{
+	"andhraPradesh": [{
+			"Name": "AP1",
+					"phone": "08041843390"
+						}, {
+								"Name": "AP2",
+										"phone": "08041843390"
+											}],
+												"Karnataka": [{
+														"Name": "KA1",
+																"phone": "08041843390"
+																	}, {
+																			"Name": "KA2",
+																					"phone": "08041843390"
+																						}],
+																							"Telangana": [{
+																									"Name": "TS1",
+																											"phone": "08041843390"
+																												}, {
+																														"Name": "TS2",
+																																"phone": "08041843390"
+																																	}]
+
+																																	}
