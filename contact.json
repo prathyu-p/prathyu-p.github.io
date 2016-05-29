@@ -1,24 +1,31 @@
 {
-	"andhraPradesh": [{
+	"andhraPradesh": [
+		{
 			"name": "AP1",
-					"phone": "08041843390"
-						}, {
-								"name": "AP2",
-										"phone": "08041843390"
-											}],
-												"Karnataka": [{
-														"name": "KA1",
-																"phone": "08041843390"
-																	}, {
-																			"name": "KA2",
-																					"phone": "08041843390"
-																						}],
-																							"Telangana": [{
-																									"name": "TS1",
-																											"phone": "08041843390"
-																												}, {
-																														"name": "TS2",
-																																"phone": "08041843390"
-																																	}]
-
-																																	}
+			"phone": "08041843390"
+		}, 
+		{
+			"name": "AP2",
+			"phone": "08041843390"
+		}
+											],
+											"Karnataka": [
+		{
+		"name": "KA1",
+		"phone": "08041843390"
+		}, 
+		{
+		"name": "KA2",									"phone": "08041843390"
+	        }
+	],
+	"Telangana": [
+		{
+		"name": "TS1",
+		"phone": "08041843390"
+		},
+		{
+		"name": "TS2",
+		"phone": "08041843390"
+		}
+	]
+}
