@@ -1,0 +1,76 @@
+.navbar-inverse {
+  background-color: #4791de;
+  border-color: #303F9F;
+}
+
+nav {
+  background-color: #4791de;
+}
+
+a:hover {
+  color: #303F9F;
+  background-color: #3F51B5;
+}
+
+footer.sunama-footer {
+  background-color: #9c9ba5;
+}
+
+.zone_info_mep {
+    padding: 12px;
+    border-left: 1px solid #D9DDE1;
+    border-right: 1px solid #D9DDE1;
+    border-bottom: 1px solid #D9DDE1;
+    background-color: #FFFFFF;
+}
+.zone_info_mep.first {
+    border-top: 1px solid #D9DDE1;
+}
+
+.zone_info_mep .mep_details {
+    margin-left: 87px;
+}
+
+.mep_details ul li.mep_name {
+    margin-bottom: 7px;
+}
+
+.zone_info_mep .statute {
+    display: block;
+    margin-bottom: 7px;
+    font-weight: normal;
+}
+
+.mep_details ul li.mep_name {
+    margin-bottom: 7px;
+}
+
+.zone_info_mep img.photo_mep {
+    display: block;
+    float: left;
+    width: 75px;
+    height: 95px;
+    border: 1px solid #DBE1E4;
+}
+
+.sclear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.list-block>li {
+    display: block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #3F51B5;
+}
